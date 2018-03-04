@@ -14,7 +14,7 @@ gem 'uglifier', '3.2.0'
 gem 'coffee-rails', '4.2.2'
 gem 'turbolinks', '5.0.1'
 gem 'jbuilder', '2.7.0'
-# gem 'swagger-docs'
+gem 'swagger-docs'
 
 group :development, :test do
   gem 'byebug', '9.0.6', platforms: :mri
